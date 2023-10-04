@@ -1,0 +1,26 @@
+.group-container{
+    /* background-color: red; */
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.group-table{
+    width: 67%;
+    background-color: #0e1021;
+    padding: 20px;
+    border-radius: 6px;
+    /* background-color: green; */
+}
+.group-form{
+    width: 30%;
+    background-color: #0e1021;
+    padding: 20px;
+    border-radius: 6px;
+    /* background-color: blue; */
+}
+
+.form-check{
+    width: 20px;
+    height: 20px;
+}
